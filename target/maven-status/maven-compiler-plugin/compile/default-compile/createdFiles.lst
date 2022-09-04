@@ -1,0 +1,6 @@
+com\NeoStox\Pages\DashBoardPage.class
+com\NeoStox\Base\TestBase.class
+com\NeoStox\Pages\LoginPage.class
+com\NeoStox\Contants\AppConstant.class
+com\NeoStox\Utility\ListnerUtility.class
+com\NeoStox\Utility\PropertiesReader.class
