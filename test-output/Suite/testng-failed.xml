@@ -5,6 +5,7 @@
     <classes>
       <class name="com.Neostox.TestCases.LoginPageTest">
         <methods>
+          <include name="LoginPageNavigationTest"/>
           <include name="teardown"/>
           <include name="testcas1"/>
           <include name="initalizeDriver"/>

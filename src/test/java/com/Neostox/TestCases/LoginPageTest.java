@@ -32,7 +32,7 @@ public class LoginPageTest extends TestBase {
 	}
 	
 	@Test
-	public void testcas1() {
+	public void testcas1() {  
 		
 		Assert.fail();
 	}
